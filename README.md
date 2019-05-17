@@ -1,0 +1,2 @@
+# PatternSearch_HyperParam_Opt
+Hyperparameter Optimization using pattern search
