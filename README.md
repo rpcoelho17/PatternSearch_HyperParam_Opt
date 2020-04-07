@@ -3,3 +3,4 @@ Hyperparameter Optimization inspired by MATLAB's global optimization pattern sea
 
 I also implemented sklearn's feature selector which automatically picks the most relevant features from a dataset.
 
+The challenge is to predict sales and the data set is similar to the Rossman Sales Kaggle competition but for an Italian chain of retail stores.
